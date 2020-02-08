@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CallByValue\CallByValue\obj\Debug\CallByValue.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\CallByValue\CallByValue\obj\Debug\CallByValue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CallByValue\CallByValue\bin\Debug\CallByValue.exe.config
+C:\Users\Admin\source\repos\CallByValue\CallByValue\bin\Debug\CallByValue.exe
+C:\Users\Admin\source\repos\CallByValue\CallByValue\bin\Debug\CallByValue.pdb
+C:\Users\Admin\source\repos\CallByValue\CallByValue\obj\Debug\CallByValue.exe
+C:\Users\Admin\source\repos\CallByValue\CallByValue\obj\Debug\CallByValue.pdb

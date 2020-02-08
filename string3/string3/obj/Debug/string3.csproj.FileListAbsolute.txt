@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\bin\Debug\string3.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\bin\Debug\string3.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\bin\Debug\string3.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\obj\Debug\string3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\obj\Debug\string3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\obj\Debug\string3.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\string3\string3\obj\Debug\string3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb

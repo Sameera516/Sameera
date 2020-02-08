@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\bin\Debug\GenericCollectionDemo.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCollectionDemo\GenericCollectionDemo\obj\Debug\GenericCollectionDemo.pdb

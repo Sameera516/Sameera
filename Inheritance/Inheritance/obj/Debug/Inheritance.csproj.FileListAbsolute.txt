@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

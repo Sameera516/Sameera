@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe.config
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.pdb
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.exe
+C:\Users\Admin\source\repos\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.pdb

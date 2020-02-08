@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Exam\Exam\obj\Debug\Exam.pdb

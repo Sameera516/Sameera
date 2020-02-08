@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\bin\Debug\GenericEx.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\bin\Debug\GenericEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\bin\Debug\GenericEx.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\obj\Debug\GenericEx.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\obj\Debug\GenericEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\obj\Debug\GenericEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericEx\GenericEx\obj\Debug\GenericEx.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\bin\Debug\GenericCourse.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\bin\Debug\GenericCourse.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\bin\Debug\GenericCourse.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\obj\Debug\GenericCourse.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\obj\Debug\GenericCourse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\obj\Debug\GenericCourse.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\GenericCourse\GenericCourse\obj\Debug\GenericCourse.pdb

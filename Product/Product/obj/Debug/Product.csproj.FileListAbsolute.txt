@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\bin\Debug\Product.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\bin\Debug\Product.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\obj\Debug\Product.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Product\Product\obj\Debug\Product.pdb

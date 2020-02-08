@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\bin\Debug\DelegateEx2.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DelegateEx2\DelegateEx2\obj\Debug\DelegateEx2.pdb

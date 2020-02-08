@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\bin\Debug\ActionEx.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\bin\Debug\ActionEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\bin\Debug\ActionEx.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\obj\Debug\ActionEx.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\obj\Debug\ActionEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\obj\Debug\ActionEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ActionEx\ActionEx\obj\Debug\ActionEx.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CallByRef\CallByRef\bin\Debug\CallByRef.exe.config
+C:\Users\Admin\source\repos\CallByRef\CallByRef\bin\Debug\CallByRef.exe
+C:\Users\Admin\source\repos\CallByRef\CallByRef\bin\Debug\CallByRef.pdb
+C:\Users\Admin\source\repos\CallByRef\CallByRef\obj\Debug\CallByRef.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CallByRef\CallByRef\obj\Debug\CallByRef.exe
+C:\Users\Admin\source\repos\CallByRef\CallByRef\obj\Debug\CallByRef.pdb
+C:\Users\Admin\source\repos\CallByRef\CallByRef\obj\Debug\CallByRef.csprojResolveAssemblyReference.cache

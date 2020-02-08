@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\bin\Debug\CentiInches.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\bin\Debug\CentiInches.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\bin\Debug\CentiInches.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\obj\Debug\CentiInches.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\obj\Debug\CentiInches.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\obj\Debug\CentiInches.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\CentiInches\CentiInches\obj\Debug\CentiInches.pdb

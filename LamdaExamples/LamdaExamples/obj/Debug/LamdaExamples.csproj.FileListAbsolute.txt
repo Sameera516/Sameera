@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\bin\Debug\LamdaExamples.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\bin\Debug\LamdaExamples.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\bin\Debug\LamdaExamples.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\obj\Debug\LamdaExamples.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\obj\Debug\LamdaExamples.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\obj\Debug\LamdaExamples.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\LamdaExamples\LamdaExamples\obj\Debug\LamdaExamples.pdb

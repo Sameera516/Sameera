@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb

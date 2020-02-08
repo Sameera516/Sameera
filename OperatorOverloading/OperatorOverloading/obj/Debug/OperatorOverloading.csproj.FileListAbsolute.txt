@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

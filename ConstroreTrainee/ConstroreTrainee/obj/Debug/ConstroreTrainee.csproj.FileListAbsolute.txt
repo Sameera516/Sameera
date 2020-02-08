@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\obj\Debug\ConstroreTrainee.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\obj\Debug\ConstroreTrainee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\bin\Debug\ConstroreTrainee.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\bin\Debug\ConstroreTrainee.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\bin\Debug\ConstroreTrainee.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\obj\Debug\ConstroreTrainee.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ConstroreTrainee\ConstroreTrainee\obj\Debug\ConstroreTrainee.pdb

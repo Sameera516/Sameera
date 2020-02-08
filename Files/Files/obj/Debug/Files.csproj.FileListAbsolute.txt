@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\bin\Debug\Files.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\bin\Debug\Files.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\bin\Debug\Files.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\obj\Debug\Files.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Files\Files\obj\Debug\Files.pdb

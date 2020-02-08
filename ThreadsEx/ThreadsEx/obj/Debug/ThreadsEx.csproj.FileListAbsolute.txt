@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\bin\Debug\ThreadsEx.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\bin\Debug\ThreadsEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\bin\Debug\ThreadsEx.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\obj\Debug\ThreadsEx.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\obj\Debug\ThreadsEx.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\obj\Debug\ThreadsEx.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\ThreadsEx\ThreadsEx\obj\Debug\ThreadsEx.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\bin\Debug\CircleShape.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\bin\Debug\CircleShape.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\bin\Debug\CircleShape.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\obj\Debug\CircleShape.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\obj\Debug\CircleShape.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\obj\Debug\CircleShape.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\CircleShape\CircleShape\obj\Debug\CircleShape.pdb

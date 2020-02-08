@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\ClassLibCalculation\ClassLibCalculation\bin\Debug\ClassLibCalculation.dll
+C:\Users\Admin\Desktop\Sam-Dotnet\ClassLibCalculation\ClassLibCalculation\bin\Debug\ClassLibCalculation.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.dll
+C:\Users\Admin\Desktop\Sam-Dotnet\ClassLibCalculation\ClassLibCalculation\obj\Debug\ClassLibCalculation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\bin\Debug\Interface2.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\bin\Debug\Interface2.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\bin\Debug\Interface2.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\obj\Debug\Interface2.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\Interface2\Interface2\obj\Debug\Interface2.pdb

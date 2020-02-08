@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\bin\Debug\DeligateExample.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\bin\Debug\DeligateExample.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\bin\Debug\DeligateExample.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\obj\Debug\DeligateExample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\obj\Debug\DeligateExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\obj\Debug\DeligateExample.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\DeligateExample\DeligateExample\obj\Debug\DeligateExample.pdb

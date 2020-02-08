@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\bin\Debug\NormalAndStatis.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\bin\Debug\NormalAndStatis.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\bin\Debug\NormalAndStatis.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\obj\Debug\NormalAndStatis.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\obj\Debug\NormalAndStatis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\obj\Debug\NormalAndStatis.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\NormalAndStatis\NormalAndStatis\obj\Debug\NormalAndStatis.pdb

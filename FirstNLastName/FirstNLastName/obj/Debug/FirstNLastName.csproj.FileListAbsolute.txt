@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\bin\Debug\FirstNLastName.exe.config
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\bin\Debug\FirstNLastName.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\bin\Debug\FirstNLastName.pdb
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\obj\Debug\FirstNLastName.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\obj\Debug\FirstNLastName.exe
+C:\Users\Admin\Desktop\Sam-Dotnet\FirstNLastName\FirstNLastName\obj\Debug\FirstNLastName.pdb
