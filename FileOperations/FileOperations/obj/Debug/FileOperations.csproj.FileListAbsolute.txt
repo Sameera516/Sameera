@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+c:\users\admin\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+c:\users\admin\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+c:\users\admin\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+c:\users\admin\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.pdb

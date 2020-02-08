@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.exe.config
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.exe
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\bin\Debug\ReflectionEx.pdb
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.exe
+c:\users\admin\source\repos\ReflectionEx\ReflectionEx\obj\Debug\ReflectionEx.pdb

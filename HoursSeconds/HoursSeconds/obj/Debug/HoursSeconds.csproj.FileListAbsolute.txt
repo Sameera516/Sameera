@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\bin\Debug\HoursSeconds.exe.config
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\bin\Debug\HoursSeconds.exe
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\bin\Debug\HoursSeconds.pdb
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\obj\Debug\HoursSeconds.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\obj\Debug\HoursSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\obj\Debug\HoursSeconds.exe
+C:\Users\Admin\source\repos\HoursSeconds\HoursSeconds\obj\Debug\HoursSeconds.pdb

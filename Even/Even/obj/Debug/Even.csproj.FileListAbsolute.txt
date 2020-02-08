@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\Even\Even\bin\Debug\Even.exe.config
+c:\users\admin\source\repos\Even\Even\bin\Debug\Even.exe
+c:\users\admin\source\repos\Even\Even\bin\Debug\Even.pdb
+c:\users\admin\source\repos\Even\Even\obj\Debug\Even.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Even\Even\obj\Debug\Even.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Even\Even\obj\Debug\Even.exe
+c:\users\admin\source\repos\Even\Even\obj\Debug\Even.pdb
